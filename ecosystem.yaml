@@ -9,7 +9,7 @@ deploy:
   production:
     user: root
     host:
-      -http://47.98.175.17
+      - 47.98.175.17
     port: '39999'
     ref: origin/master
     repo: git@github.com:HelloPujing/demo-node-deplpoy.git
